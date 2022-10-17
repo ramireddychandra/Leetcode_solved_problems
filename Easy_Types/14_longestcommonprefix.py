@@ -42,4 +42,4 @@ def longestCommonPrefix(strs):
 
 
 
-print(longestCommonPrefix(["dog","dogstar","dos"]))
+print(longestCommonPrefix(["flower","flow","flight"]))
